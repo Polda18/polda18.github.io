@@ -48,3 +48,6 @@ I'm also graphics creator and editor. Apart from taking pictures, I also make te
 # GitHub projects currently in active development
 * [Wikibot Terminal Tool](https://polda18.github.io/Wikibot-Terminal-Tool) - _project websites waiting for deploy_
 * [Quake III Arena: Infected](https://github.com/Polda18/Quake-III-Arena-Infected) - _project websites not created yet_
+
+## My Gists
+You can find my public gists [here](https://gist.github.com/Polda18).
