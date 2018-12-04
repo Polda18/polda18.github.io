@@ -45,9 +45,12 @@ namespace wikibot {
 # Graphics and writing
 I'm also graphics creator and editor. Apart from taking pictures, I also make textures, basic artworks, and even videos. I'm also trying to write some stories. I want to share my creations, but none of them are actually complete, and they are topic for [another website](http://czghost.4fan.cz/). You can find these on that link in future. I'm planning making video tutorials and reviews...
 
-# GitHub projects currently in active development
+# GitHub projects currently in development
 * [Wikibot Terminal Tool](https://polda18.github.io/Wikibot-Terminal-Tool) - _project websites waiting for deploy_
 * [Quake III Arena: Infected](https://github.com/Polda18/Quake-III-Arena-Infected) - _project websites not created yet_
+* [Notch Discord Chat Bot](https://polda18.github.io/Notch-Discord-Chat-Bot) - _project websites waiting for deploy_
+* [Joker Discord Chat Bot](https://polda18.github.io/Joker-Discord-Chat-Bot) - _project websites waiting for deploy_
+* [Viper Discord Chat Bot](https://polda18.github.io/Viper-Discord-Chat-Bot) - _project websites waiting for deploy_
 
 ## My Gists
 You can find my public gists [here](https://gist.github.com/Polda18).
