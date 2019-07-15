@@ -51,6 +51,7 @@ I'm also graphics creator and editor. Apart from taking pictures, I also make te
 * [Notch Discord Chat Bot](https://polda18.github.io/Notch-Discord-Chat-Bot) - _project websites waiting for deploy_
 * [Joker Discord Chat Bot](https://polda18.github.io/Joker-Discord-Chat-Bot) - _project websites waiting for deploy_
 * [Viper Discord Chat Bot](https://polda18.github.io/Viper-Discord-Chat-Bot) - _project websites waiting for deploy_
+* [Windows Kris-Kros Game](https://polda18.github.io/Windows-Kris-Kros-Game) - _project websites waiting for deploy_
 
 ## My Gists
 You can find my public gists [here](https://gist.github.com/Polda18).
