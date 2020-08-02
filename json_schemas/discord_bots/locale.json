@@ -6,10 +6,10 @@
     "$comment": "Locale JSON file should be named following ISO standard for language identification and country designation (like en-US or cs-CZ)",
     "type": "object",
     "definitions": {
-        "locale_strings": {
-            "$id": "#locale_strings",
+        "locale_string": {
+            "$id": "#locale_string",
             "description": "Locale string format definition",
-            "type": "object"
+            "type": [ "object", "string" ]
         }
     },
     "properties": {
@@ -43,7 +43,7 @@
         "locale_strings": {
             "description": "Locale strings structured into a JSON object with nested categories",
             "type": "object",
-            "$ref": "#locale_strings"
+            "allOf": [{"$ref": "#locale_string"}]
         }
     },
     "required": [ "id", "name", "author", "locale_strings" ]
