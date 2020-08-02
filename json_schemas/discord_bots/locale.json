@@ -1,0 +1,35 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://polda18.github.io/json_schemas/discord_bots/locale.json",
+    "$comment": "Locale schema",
+    "contentMediaType": "application/json",
+    "type": "object",
+    "definitions": {
+        "name": {
+            "$id": "name",
+            "$comment": "Locale name in ISO 436 code with country designation code: xx-XX",
+            "type": "string",
+            "pattern": "^[a-z]{2,3}(\\-[A-Z]{2})?$",
+            "examples": [
+                "cs-CZ",
+                "en-US",
+                "uk"
+            ]
+        },
+        "author": {
+            "$id": "author",
+            "$comment": "Locale author (not really used in the bot code, used for identification.",
+            "type": "string",
+            "examples": [
+                "CZghost",
+                "NickFury"
+            ]
+        },
+        "locales": {
+            "$id": "locales",
+            "$comment": "Actual locales to translate from locale codes",
+            "type": "object",
+            "definitions": {}
+        }
+    }
+}
