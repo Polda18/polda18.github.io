@@ -6,7 +6,7 @@
     "type": "object",
     "definitions": {
         "name": {
-            "$id": "#name",
+            "$id": "#locale_name",
             "$comment": "Locale language name complete with country designation",
             "type": "string",
             "examples": [
@@ -16,7 +16,7 @@
             ]
         },
         "author": {
-            "$id": "#author",
+            "$id": "#locale_author",
             "$comment": "Locale author (not really used in the bot code, used for identification.",
             "type": "string",
             "examples": [
@@ -24,11 +24,17 @@
                 "NickFury"
             ]
         },
-        "locales": {
-            "$id": "#locales",
+        "locale_strings": {
+            "$id": "#locale_strings",
             "$comment": "Actual locales to translate from locale codes",
             "type": "object",
-            "definitions": {}
+            "definitions": {},
+            "properties": {}
         }
+    },
+    "properties": {
+        "name": { "$ref": "#locale_name" },
+        "author": { "$ref": "#locale_author" },
+        "locale_strings": { "$ref": "#locale_strings" }
     }
 }
