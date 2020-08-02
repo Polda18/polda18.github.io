@@ -42,8 +42,7 @@
         },
         "locale_strings": {
             "description": "Locale strings structured into a JSON object with nested categories",
-            "type": "object",
-            "allOf": [{"$ref": "#locale_string"}]
+            "type": "object"
         }
     },
     "required": [ "id", "name", "author", "locale_strings" ]
