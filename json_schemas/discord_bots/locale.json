@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "https://polda18.github.io/json_schemas/discord_bots/locale.json",
+    "$id": "https://github.com/Polda18/polda18.github.io/raw/master/json_schemas/discord_bots/locale.json",
     "$comment": "Locale schema",
     "contentMediaType": "application/json",
     "type": "object",
