@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "https://github.com/Polda18/polda18.github.io/raw/master/json_schemas/discord_bots/locale.json",
+    "$id": "https://raw.githubusercontent.com/Polda18/polda18.github.io/master/json_schemas/discord_bots/locale.json",
     "title": "Discord.js bot locale schema",
     "description": "Locale format used in Discord.js bots produced by Polda18/CZghost",
     "$comment": "Locale JSON file should be named following ISO standard for language identification and country designation (like en-US or cs-CZ)",
