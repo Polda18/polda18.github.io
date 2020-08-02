@@ -6,7 +6,7 @@
     "type": "object",
     "definitions": {
         "name": {
-            "$id": "name",
+            "$id": "#name",
             "$comment": "Locale language name complete with country designation",
             "type": "string",
             "examples": [
@@ -16,7 +16,7 @@
             ]
         },
         "author": {
-            "$id": "author",
+            "$id": "#author",
             "$comment": "Locale author (not really used in the bot code, used for identification.",
             "type": "string",
             "examples": [
@@ -25,7 +25,7 @@
             ]
         },
         "locales": {
-            "$id": "locales",
+            "$id": "#locales",
             "$comment": "Actual locales to translate from locale codes",
             "type": "object",
             "definitions": {}
