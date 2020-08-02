@@ -7,13 +7,12 @@
     "definitions": {
         "name": {
             "$id": "name",
-            "$comment": "Locale name in ISO 436 code with country designation code: xx-XX",
+            "$comment": "Locale language name complete with country designation",
             "type": "string",
-            "pattern": "^[a-z]{2,3}(\\-[A-Z]{2})?$",
             "examples": [
-                "cs-CZ",
-                "en-US",
-                "uk"
+                "Čeština (Česká republika",
+                "English (United States)",
+                "English (United Kingdom)"
             ]
         },
         "author": {
