@@ -55,3 +55,7 @@ I'm also graphics creator and editor. Apart from taking pictures, I also make te
 
 ## My Gists
 You can find my public gists [here](https://gist.github.com/Polda18).
+
+## My bots JSON schemas
+* [`Joker/locale.json`](json/schemas/Joker/locale.json)
+* [`Viper/locale.json`](json/schemas/Viper/locale.json)
