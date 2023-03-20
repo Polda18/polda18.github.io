@@ -1,0 +1,2 @@
+# GitHub Pages
+This repository is used for GitHub Pages. Contents you see in this repository are available on [github.czghost.cz](https://github.czghost.cz). Yes, I have a new domain, and I'm slowly transferring my content there.

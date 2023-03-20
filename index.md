@@ -1,0 +1,4 @@
+# Polda18 aka CZghost
+Hello. My name is _Marek Poláček_, I make content on YouTube, and also create apps, mods and plugins for Minecraft and other games. You may know my [gaming YouTube channel](https://www.youtube.com/@CZghostPlays), my [developer YouTube channel](https://www.youtube.com/@CZghostCodes) and my [personal channel](https://www.youtube.com/@CZghost). You may also find me on [Twitter](https://www.twitter.com/TheCZghost), I have a streaming [Twitch channel](https://www.twitch.tv/theczghost) and I'm also on [Instagram](https://www.instagram.com/theczghost). I had Facebook pages as well, but I since stopped supporting those.
+
+My [new websites](https://www.czghost.cz/) are yet to be deployed (you can go to the old websites [here](http://czghost.4fan.cz/)), but I'm trying to do it soon. You may read more informations on the main sites, as this subdomain is reserved for documentations for my GitHub repositories. That being said, welcome to my websites!
